@@ -25,8 +25,8 @@
     "Tobias Kopelke <nox@raynode.de>"
   ],
   "dependencies": {
-    "chai": "~3.2.0",
-    "sinon": "~1.16.0",
+    "chai": "^3.3.0",
+    "sinon": "1.15.4",
     "sinon-chai": "~2.8.0"
   },
   "devDependencies": {}
